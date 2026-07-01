@@ -7,6 +7,9 @@
 **O Último Guardião** O Último Guardião da Floresta é um jogo eletrônico de ação e sobrevivência em estilo arcade com estética retrô e jogabilidade dinâmica em 2D. Nele, o jogador assume o papel do "Guardião", uma entidade mística encarregada de defender o coração de uma floresta sagrada contra hordas implacáveis de inimigos e forças destrutivas. Toda a ação se passa em uma arena única e responsiva, onde a agilidade e a precisão do jogador determinam o destino da natureza
 
 📑 Documentação do Projeto
+[GDD-JOGO.ULTIMO.GUARDIAO (1).pdf](https://github.com/user-attachments/files/29576612/GDD-JOGO.ULTIMO.GUARDIAO.1.pdf)
+[SDD – Sound Design Document  ULTIMO GUARDIÃO (1).pdf](https://github.com/user-attachments/files/29576610/SDD.Sound.Design.Document.ULTIMO.GUARDIAO.1.pdf)
+
 ---
 
 ## 🎮 Objetivo do Jogo
