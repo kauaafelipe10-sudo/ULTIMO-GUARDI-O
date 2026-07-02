@@ -9,10 +9,7 @@
 ---
 
 📑 Documentação do Projeto
-
-[SDD – Sound Design Document  ULTIMO GUARDIÃO (1).pdf](https://github.com/user-attachments/files/29577631/SDD.Sound.Design.Document.ULTIMO.GUARDIAO.1.pdf)
-[GDD-JOGO.ULTIMO.GUARDIAO (1).pdf](https://github.com/user-attachments/files/29577627/GDD-JOGO.ULTIMO.GUARDIAO.1.pdf)
-
+[GDD ULTIMO GUARDIÃO.pdf](https://github.com/userattachments/files/29577681/GDD.ULTIMO.GUARDIAO.pdf)
 
 ---
 
