@@ -88,7 +88,7 @@ Jogadores que gostam de jogos de:
 
 ## 📌 Status do Projeto
 
-🔨 Em desenvolvimento acadêmico
+🔨 CONCLUIDO
  
 ---
 
