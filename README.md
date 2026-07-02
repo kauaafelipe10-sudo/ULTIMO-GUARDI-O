@@ -59,9 +59,9 @@ Desde tempos imemoriais, a **Floresta Primordial** mantém o equilíbrio da vida
 | Integrante | Função                            |
 | ---------- | --------------------------------- |
 | **Kauã**   | Gestão do Projeto                 |
-| **Ismael** | Game Design                       |
-| **Mateus** | Design                            |
-| **Felipe** | Analista de Controle de Qualidade |
+| **Ismael KAUÃ** | Game Design                       |
+| **Mateus KAUÃ** | Design                            |
+| **Felipe KAUÃ** | Analista de Controle de Qualidade |
 
 ---
 
